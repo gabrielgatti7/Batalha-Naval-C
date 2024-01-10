@@ -1,1 +1,2 @@
 # Batalha-Naval-C
+De forma geral, o programa inicia pelo terminal e lê o tabuleiro inicial de cada um dos jogadores nos arquivos *tabu_1.txt* e *tabu_2.txt* (devem estar dentro do diretório passado como parâmetro). Com os tabuleiros iniciados, os jogadores realizam suas jogadas um de cada vez, até que um dos dois ganhe ou o jogo empate. O programa apresenta os resultados parciais na saída padrão enquanto o jogo está em curso. Ao terminar, é apresentado o resultado final e as estatísticas do jogo são salvas em um arquivo.
